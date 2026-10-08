@@ -1,0 +1,35 @@
+[MVP]
+[ok] 1. Criar classes para entidades Pessoa e Conta Bancária;
+    1.1. Criar cadastro de Pessoa's
+[ok] 2. Criar funcionalidade de abertura de conta bancária;
+[ok] 3. Criar funcionalidade para simular depósito, saque e consultar saldo + extrato;
+    3.1. Modelar extrato
+[/MVP]
+
+[BETA]
+
+[v0.1]
+1. Criar sistema de cadastro de senha e exigência de senha para saque e consultas de saldo e extrato;
+2. Criar possibilidade de adicionar Pessoa Titular e Pessoa Secudária a uma conta;
+    2.1. Cada um tem sua própria senha;
+    2.2. Cada um tem limites diferentes para saques (Titular: 100%; Secundário: 50%)
+[/v0.1]
+
+[v0.2]
+1. Criar possibilidade de transferência entre contas;
+    1.1. Aplicar mesmos limites para Titular e Secundário;
+[/v0.2]
+
+[goLive]
+1. Criar menu confortável para o usuário;
+2. Criar sistema de persistência e carga de dados básicos iniciais para o projeto;
+    2.1. Inicialmente com arquivos CSVs ou JSONs mesmo;
+[/goLive]
+
+[/BETA]
+
+[PRODUÇÃO]
+
+...
+
+[/PRODUÇÃO]
